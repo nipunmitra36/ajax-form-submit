@@ -1,0 +1,980 @@
+@media(min-width:1550px) {
+	/* .Features_appFeaturesItems__okSIm {
+		font-size: 15px;
+		padding: 0px 20px;
+	} */
+}
+@media(max-width:1400px) {
+	.footer_subscribe {
+		font-size: 11px !important;
+		white-space: nowrap;
+	}
+}
+
+@media(max-width:1400px) {
+	.why_choose_label img {
+		height: 75px;
+		padding: 5px 0;
+	}
+}
+
+@media(min-width:1200px) and (max-width:1399px) {
+	.deptRetTime_wrapper .item-content h2 {
+		font-size: 20px;
+	}
+
+	.single_search_result_item .result_content .bus_name h6 {
+		font-size: 32px;
+	}
+	.Features_appFeaturesItems__okSIm {
+		font-size: 17px;
+		padding: 0px 10px;
+		margin: 0 10px 10px 0;
+	}
+	.app_sec h2 {
+		font-size: 5vw;
+		margin-bottom: 20px;
+	}
+	.app_logo img {
+		width: 180px;
+	}
+}
+
+@media(min-width:991px) and (max-width:1199px) {
+	.deptRetTime_wrapper .item-content h2 {
+		font-size: 20px;
+	}
+
+	.transport_top_choice {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	.transportation_txt {
+		font-size: 14px;
+	}
+
+	.single_search_result_item .result_content .bus_name h6 {
+		font-size: 30px;
+	}
+
+	.book_scroll_btn {
+		font-size: 16px;
+		padding: 8px 15px !important;
+	}
+
+	.hologram_panel_inner {
+		padding: 15px;
+	}
+	.app_logo img {
+		width: 150px;
+	}
+	.app_sec h2 {
+		font-size: 4vw;
+		text-transform: uppercase;
+		margin-bottom: 15px;
+		font-weight: 900;
+	}
+	.app_white_part {
+		padding: 30px 0px 0px 30px;
+	}
+	.Features_appFeaturesItems__okSIm {
+		font-size: 14px;
+		padding: 1px 12px;
+		margin: 0 10px 10px 0;
+	}
+}
+
+@media(min-width:768px) and (max-width:991px) {
+	section.hologram_panel {
+		margin-top: 20px;
+	}
+
+	.redesig-amenites-info {
+		width: 33.33%;
+		line-height: 33px;
+	}
+
+	.section-padding-desk {
+		padding: 30px 0px !important;
+	}
+
+	.hologram_panel_inner {
+		padding: 10px;
+	}
+
+	.hologram_panel_inner h4 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	.book_scroll_btn {
+		font-size: 18px;
+		padding: 8px 18px !important;
+	}
+
+	.deptRetTime_wrapper .item-content h2 {
+		font-size: 15px;
+	}
+
+	.transport_top_choice {
+		font-size: 14px;
+		font-weight: 800;
+	}
+
+	.deptRetTime_wrapper img {
+		width: 70px;
+		margin: 0;
+	}
+
+	.single_search_result_item .result_content .bus_name h6 {
+		font-size: 30px;
+	}
+
+	.all_amenities_btn {
+		font-size: 14px;
+	}
+
+	.band_name,
+	.bus_type {
+		font-size: 15px;
+	}
+
+	.busStructure-wrapper {
+		margin-bottom: 0;
+	}
+
+	.trac_map {
+		width: 200px;
+	}
+	.app_logo img {
+		width: 130px;
+	}
+	.Features_appFeaturesItems__okSIm {
+		font-size: 13px;
+		border-radius: 30px;
+		padding: 5px 10px;
+		margin: 0 10px 5px 0;
+	}
+	.app_sec h2 {
+		font-size: 5vw;
+		margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 991px) {
+	.help_categories h6 {
+		min-height: 42px;
+	}
+	.login-form-body {
+		padding: 0px 20px;
+	}
+
+	.why_choose {
+		border: 2px dashed #10BC10;
+	}
+
+	.amenities img {
+		width: 18px;
+	}
+
+	.amenities span {
+		font-size: 13px;
+	}
+
+	.congratulations_row {
+		flex-direction: row-reverse;
+	}
+
+	.demoNavBar li {
+		padding: 0px 10px 0px 0px !important;
+	}
+
+	.login-btn {
+		margin-top: 10px;
+	}
+
+	.demoNavBar li a {
+		font-family: var(--theme-body-font);
+		color: #000 !important;
+		font-weight: 600;
+		transition: all ease-in-out 0.3s;
+		margin: 0;
+		padding: 0;
+		text-transform: capitalize;
+	}
+
+	.dropdown-menu .demoNavBar li {
+		padding: 0px 10px !important;
+	}
+
+	.dropdown-menu li:first-child a {
+		padding-left: 15px !important;
+	}
+
+	.login-btn {
+		margin-top: 10px !important;
+	}
+
+	.toggle_btn {
+		padding: 0;
+		font-size: 25px;
+		color: #fff;
+	}
+
+	.homeBanner-carousel img {
+		height: auto !important;
+	}
+
+	.booking-box {
+		margin-top: 15px !important;
+		width: 100% !important;
+	}
+
+	.booking-box .booking-box__body {
+		padding: 15px !important;
+		border-radius: 30px 30px 0px 0px;
+	}
+
+	.booking__box__popup__visible {
+		right: 0 !important;
+		opacity: 1 !important;
+		z-index: 999 !important;
+		visibility: visible !important;
+		left: 0 !important;
+	}
+
+	.booking-box .booking-box__popup {
+		padding: 20px !important;
+	}
+
+	.booking-box .booking-box__popup .wrapper-station-list {
+		width: 100% !important;
+	}
+
+	.home_banner_section .owl-nav {
+		display: none !important;
+	}
+
+	.home_banner_section .owl-dots {
+		display: block !important;
+	}
+
+	/* Login page */
+	.login_bg img {
+		width: 180px;
+	}
+}
+
+@media (max-width: 920px) {
+	.app_logo img {
+		width: 106px;
+	}
+}
+@media (max-width: 767px) {
+	.curreny_tooltip_box {
+		min-width: 150px;
+		top: 53px;
+		right: 0;
+		z-index: 2;
+		left: 0;
+		max-width: 200px;
+		margin: 0 auto;
+	}
+	.curreny_tooltip_box::before {
+		content: '';
+		position: absolute;
+		height: 15px;
+		width: 15px;
+		background: #007600;
+		transform: rotate(45deg);
+		top: -8px;
+		z-index: 1;
+		right: 52px;
+		left: auto;
+	}
+	.profile {
+		width: 140px;
+		height: 140px;
+	}
+
+	.padding-team {
+		padding: 10px;
+	}
+
+	.card.item {
+		min-height: 350px;
+	}
+
+	.profilepic {
+		padding: 15px 0;
+	}
+
+	.pos-text {
+		font-size: 20px;
+	}
+
+	.designationposition p {
+		margin: 0;
+		font-size: 16px;
+	}
+
+	.look_fr_btn {
+		margin: 10px 0;
+	}
+
+	.mid_cont_btn {
+		font-size: 15px;
+		padding: 10px 30px;
+		width: 100%;
+		display: block !important;
+	}
+
+	.seat_layout {
+		padding: 5px 10px 35px;
+	}
+
+	.border_right_gray {
+		border-right: 0px;
+	}
+
+	.top_discount {
+		display: inline-block;
+	}
+
+	.hidden_bus_seat_layout_panel {
+		width: 100%;
+		padding-bottom: 0;
+	}
+
+	.busStructure-wrapper {
+		padding: 5px 0 0;
+		margin-bottom: 0;
+	}
+
+	.main_status_box {
+		height: calc(95vh - 100px);
+		width: 100%;
+		background: #f3f7f8;
+	}
+
+	.wrap {
+		padding: 10px !important;
+		margin-bottom: 15px !important;
+	}
+
+	.form__label-radio {
+		font-size: 1.1rem;
+	}
+
+	#simple_timer {
+		font-size: 22px;
+	}
+
+	/* ScrollBar */
+	#style-3::-webkit-scrollbar-track {
+		background-color: #F5F5F5;
+	}
+
+	#style-3::-webkit-scrollbar {
+		width: 3px;
+		background-color: #F5F5F5;
+	}
+
+	#style-3::-webkit-scrollbar-thumb {
+		background-color: #ddd;
+	}
+
+	/* ScrollBar */
+	.hologram_panel_inner h4 {
+		font-size: 18px;
+		line-height: 28px;
+		font-weight: 500;
+	}
+
+	section.hologram_panel {
+		margin-top: 0;
+	}
+
+	.repeat-arrow-img-btn {
+		top: 93px !important;
+	}
+
+	.repeat-arrow-img-btn img {
+		height: 30px;
+		width: 30px;
+	}
+
+	.pwrdby_text {
+		text-align: center;
+	}
+	.amenities_img_wrap {
+		width: 15%;
+	}
+
+	.amenities span {
+		width: 85%;
+	}
+
+	.why_choose_label {
+		margin: 12px 0 0;
+	}
+
+	.site_logo {
+		width: 190px;
+	}
+
+	.inner_title {
+		font-size: 17px;
+		margin-bottom: 18px !important;
+	}
+
+	.sr_pay img {
+		width: 100px;
+	}
+
+	.congratulations_row {
+		flex-direction: column-reverse;
+	}
+
+	.section-padding-mobile {
+		padding: 40px 0px;
+	}
+
+	section.why_book_us {
+		padding: 30px 0 !important;
+	}
+
+	.bus_trip_section {
+		padding-top: 125px !important;
+	}
+
+	.section-title h2 {
+		font-size: 22px;
+	}
+
+	.single_bus_terminal a {
+		font-size: 14px;
+	}
+
+	.single_bus_terminal a img {
+		width: 20px;
+	}
+
+	.single_srch_result .bus_name h6 {
+		font-size: 16px;
+	}
+
+	.single_srch_result .time button {
+		padding: 5px 3px;
+	}
+
+	.single_srch_result .bus_name_wrap .price {
+		font-size: 17px;
+	}
+
+	.depart_bus_trip {
+		border-right: 0;
+		border-bottom: 3px solid #10BC10;
+		padding-right: 0;
+		padding-bottom: 25px;
+		margin-bottom: 25px;
+	}
+
+	.single_depart_bus a {
+		font-size: 14px;
+	}
+
+	.single_depart_bus span {
+		font-size: 16px;
+	}
+
+	.why_choose {
+		border: 0px !important;
+		padding: 10px 5px;
+	}
+
+	.select2-container--default .select2-selection--single .select2-selection__arrow {
+		top: 5px !important;
+	}
+
+	.redesig-amenites-info span {
+		font-size: 12px;
+		line-height: 30px;
+	}
+
+	.margn_negative_2_wrap {
+		display: inline-block;
+		width: 35px;
+		text-align: center;
+		padding: 4px;
+		border-radius: 3px;
+		margin: 2px 5px 3px 0px;
+	}
+
+	img.margn_negative_2 {
+		margin: 0 !important;
+	}
+
+	.box_title {
+		font-size: 22px;
+		text-align: center;
+		margin: 10px 0 0;
+		padding: 20px;
+		border-radius: 10px;
+		font-weight: 700;
+		letter-spacing: .4px;
+		max-height: 100px;
+		height: 200px;
+		background: #10BC10;
+		color: #ffffff;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	a.android_event img,
+	a.ios_event img {
+		width: 140px !important;
+		margin-bottom: 10px;
+	}
+
+	/* Login page */
+	.login-form-body {
+		padding: 0;
+	}
+
+	.login-box::after {
+		display: none !important;
+	}
+
+	/* Search busses */
+	ul.datebar {
+		overflow-x: auto;
+	}
+
+	ul.datebar li {
+		width: auto;
+		border: 1px solid #eee;
+		border-radius: 10px;
+		margin: 2px;
+	}
+
+	ul.datebar li:first-of-type {
+		width: auto;
+	}
+
+	ul.datebar li:last-of-type {
+		width: auto;
+		border: 0;
+	}
+
+	.dab-center {
+		margin-bottom: 8px;
+	}
+
+	.deptRetTime_wrapper .item-content h2 {
+		font-size: 24px;
+	}
+
+	.deptRetTime_wrapper img {
+		width: 55px;
+		margin: 0;
+	}
+
+	.single_search_result_item .result_content .item-content strong {
+		font-size: 18px;
+	}
+
+	.why_book_us_subtitle {
+		margin-top: 15px !important;
+		font-size: 16px;
+		line-height: 24px;
+		margin-bottom: 0;
+	}
+
+	.slide_caption {
+		margin: 15px 0 0;
+	}
+
+	.b-search-map__wrap {
+		padding: 10px;
+		border-radius: 3px;
+		margin-top: 15px;
+	}
+
+	.b-form-group {
+		margin-bottom: 6px;
+	}
+
+	.travel_from .repeat-arrow-img-btn {
+		height: 38px;
+		width: 38px;
+		top: 71px !important;
+		left: auto !important;
+		right: 0% !important;
+		transform: rotate(90deg);
+	}
+
+	.dab-center .title-4 {
+		font-size: 18px;
+		line-height: 28px;
+	}
+
+	.single_search_result_item .result_content {
+		padding: 0px !important;
+	}
+
+	.single_search_result_item {
+		padding: 10px !important;
+	}
+
+	.single_search_result_item .result_content .bus_name h6 {
+		font-size: 24px;
+	}
+
+	.deptRetTime_wrapper .item-content h2 {
+		font-size: 18px;
+	}
+
+	.transportation_txt {
+		font-weight: 500;
+		font-size: 14px;
+	}
+
+	.transport_name {
+		font-size: 20px;
+		margin: 5px 0px 0px;
+		text-align: center;
+	}
+
+	.transport_top_choice {
+		font-size: 14px;
+		font-weight: 600;
+		text-align: center;
+	}
+
+	.hologram_panel_inner {
+		padding: 10px !important;
+	}
+
+	.book_scroll_btn {
+		font-size: 16px;
+		padding: 6px 20px !important;
+	}
+
+	.submit_application_section {
+		padding: 20px 0px;
+		margin-bottom: 40px;
+	}
+
+	.whywork_title {
+		min-height: auto;
+	}
+
+	.offer_pay_card h5 {
+		font-size: 22px;
+	}
+	.Features_appFeaturesItems__okSIm {
+		margin: 0;
+	}
+	.app_white_part {
+		width: 100%;
+		float: none;
+		padding: 30px 20px;
+		background: #fff;
+		overflow: hidden;
+		height: auto;
+		border-radius: 0;
+	}
+	.app_color_part {
+		width: 100%;
+		float: none;
+		height: auto;
+		display: block;
+		padding: 20px;
+	}
+	.Features_appFeaturesItems__okSIm__wrapper {
+		text-align: center;
+		display: flex;
+		align-items: center;
+		gap: 10px;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.mobile_img {
+		width: 300px;
+	}
+	.app_sec h2 {
+		font-size: 6.5vw;
+		margin-bottom: 15px;
+		text-align: center;
+	}
+	.app_logo img {
+		width: 145px;
+	}
+	.app_logo {
+		text-align: center;
+	}
+	.app_logo p {
+		font-size: 16px !important;
+	}
+	.app_white_part h2 {
+		margin-top: -20px;
+	}
+	.app_white_part {
+		padding: 20px;
+	}
+	.Features_appFeaturesItems__okSIm {
+		font-size: 14px;
+		padding: 1px 5px;
+	}
+	.Features_appFeaturesItems__okSIm__wrapper.second > div {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 12px;
+		justify-content: center;
+	}
+	.Features_appFeaturesItems__okSIm__wrapper.first {
+		position: relative;
+		margin-bottom: 10px;
+	}
+	.app_white_part h2 {
+		padding-top: 0;
+	}
+}
+
+@media (max-width: 600px) {
+	.trac_map {
+		width: 40%;
+	}
+
+	.services_heading {
+		margin-bottom: 15px;
+	}
+
+	.sr_facility_card {
+		padding: 10px;
+	}
+
+	.my-bookin-tbl th,
+	.my-bookin-tbl td {
+		white-space: nowrap !important;
+	}
+
+	.profile-right-tab-content {
+		min-height: auto;
+		height: auto;
+	}
+
+	.rectan {
+		height: 25px;
+		width: 25px;
+		line-height: 20px;
+		font-size: 15px;
+	}
+
+	.page-heading h1 {
+		font-size: 18px;
+	}
+
+	.lead_pass_title {
+		font-size: 13px;
+	}
+
+	.booking-box__body h2 {
+		font-size: 20px;
+		text-align: center;
+		border-bottom: 1px solid #00760030;
+		padding-bottom: 10px;
+		text-transform: uppercase;
+		color: #007600;
+	}
+
+	/* Banner */
+	.home_banner_section {
+		min-height: 500px;
+	}
+
+	.banner-title {
+		margin-top: 30px;
+		margin-bottom: 0;
+		font-size: 26px;
+		line-height: 32px;
+	}
+
+	.banner-slogan {
+		font-size: 20px;
+		margin: 5px 0px 25px;
+	}
+
+	.label-blank {
+		display: none !important;
+	}
+
+	#searchButton {
+		margin-top: 0px;
+	}
+
+	/* Congratulations page */
+	.ticket_box {
+		padding: 10px;
+		min-height: auto;
+		margin-bottom: 10px;
+	}
+
+	/* Login Page */
+	.login-box {
+		padding: 20px;
+	}
+
+	/* Download */
+	.download-ticket-box {
+		padding: 20px;
+	}
+
+	/* Contact */
+	.b-contact-form-box {
+		min-height: auto;
+		padding: 25px;
+	}
+
+	.offcanvas-start {
+		width: 90% !important
+	}
+
+	div#dropping_point {
+		margin-bottom: 15px;
+	}
+
+	.seat-text h5 {
+		margin: 0;
+		font-size: 15px;
+		line-height: 22px;
+	}
+
+	.seat-reservation-btn {
+		padding: 10px !important;
+	}
+
+	.collaborate_img img {
+		width: 100%;
+	}
+
+}
+
+@media (max-width: 575px) {
+	.v-align p {
+		font-size: 16px;
+	}
+	.read-more a {
+		font-size: 16px;
+	}
+	.bio_desc {
+		text-align: justify;
+		font-size: 16px;
+	}
+	.tichaona_desc_mobile_none {
+		display: none;
+	}
+
+	.item .cover {
+		position: relative !important;
+		opacity: 1 !important;
+		border-radius: 0 0 10px 10px !important;
+	}
+
+	.team-title {
+		font-size: 24px;
+		line-height: 30px;
+		padding-top: 5px;
+	}
+
+	.site_logo {
+		width: 150px;
+	}
+
+	.lead_pass_title_return {
+		line-height: 25px;
+	}
+
+	.location_sale_form {
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	.border_right_gray {
+		border-bottom: 2px dashed #e3e3e3;
+		padding-bottom: 10px;
+		border-right: 0px !important;
+	}
+
+	.why_choose_label h4 {
+		font-size: 20px !important;
+	}
+
+	.why_choose_label h5 {
+		font-size: 13px !important;
+	}
+
+	.location_title_dept {
+		font-size: 16px !important;
+	}
+
+	.location_title_return {
+		font-size: 16px !important;
+	}
+
+	.date_title {
+		font-size: 14px !important;
+	}
+
+	.modify_src_btn {
+		font-size: 12px;
+	}
+
+	.pre_next_btn {
+		font-size: 12px;
+	}
+
+	.b-form-group label {
+		font-size: 14px;
+	}
+
+}
+
+@media (max-width: 375px) {
+	.trac_map {
+		width: 30%;
+	}
+
+	.sr_facility_card img {
+		margin-right: 10px;
+		height: 35px;
+	}
+
+	.sr_facility_card h6 {
+		font-size: 14px;
+	}
+
+	.ui-widget.ui-widget-content {
+		padding: 5px !important;
+		min-width: 295px !important;
+	}
+
+	.ui-datepicker th {
+		padding: 0.3em 0.2em !important;
+	}
+
+	.ui-state-default,
+	.ui-widget-content .ui-state-default,
+	.ui-widget-header .ui-state-default,
+	.ui-button,
+	html .ui-button.ui-state-disabled:hover,
+	html .ui-button.ui-state-disabled:active {
+		height: 30px !important;
+		width: 30px !important;
+		font-size: 15px !important;
+		line-height: 24px !important;
+	}
+}
